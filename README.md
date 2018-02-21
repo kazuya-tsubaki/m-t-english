@@ -1,2 +1,2 @@
 # m-t-english
-many times English
+Development by next.js, react, redux
